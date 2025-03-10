@@ -2,7 +2,13 @@
 # Date: 3/9/25
 # Project Name: Social Media DashBoard
 # Description:   Recreate the image
-# Peer review: 
+# Peer review:  Thao Vang
+"Looks almost all there. Light and dark mode works. 
+small things need to fix: 
+  - i think you are missing total follower count
+  - gradients are missing
+  - padding and margins are not accurate to the design
+Overall Almost there just a bit more touch up."
 
 
 
