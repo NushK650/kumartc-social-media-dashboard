@@ -1,4 +1,8 @@
-#
+# Name: Tanush Kumar
+# Date: 3/9/25
+# Project Name: Social Media DashBoard
+# Description:   Recreate the image
+# Peer review: 
 
 
 
